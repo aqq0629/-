@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TDLibFramework",
+        "repositoryURL": "https://github.com/Swiftgram/TDLibFramework",
+        "state": {
+          "branch": null,
+          "revision": "6f89fac14a1cc50adaee942c928595cf2b4c38b4",
+          "version": "1.8.29-fd3154b2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
